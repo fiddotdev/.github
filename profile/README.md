@@ -1,4 +1,4 @@
-![2portal_banner_no_bar](https://user-images.githubusercontent.com/29960599/231050109-7f90cd05-28c6-4c10-b1c0-6192d96e5e20.png)
+![2portal_banner_no_bar](https://raw.githubusercontent.com/withportals/.github/main/profile/1500x500.png)
 # Portals
 The Farcaster Development Platform
 
